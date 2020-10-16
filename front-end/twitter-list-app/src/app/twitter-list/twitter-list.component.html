@@ -1,0 +1,26 @@
+<div class="card my-5">
+    <div class="card-body">
+      <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">user</th>
+            <th scope="col">createdAt</th>
+            <th scope="col">language</th>
+            <th scope="col">location</th>
+            <th scope="col">geoEnabled</th>
+            <th scope="col">text</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let twitter of twitters">
+            <td>{{ twitter.user }}</td>
+            <td>{{ twitter.createdAt }}</td>
+            <td>{{ twitter.language }}</td>
+            <td>{{ twitter.location }}</td>
+            <td>{{ twitter.geoEnabled }}</td>
+            <td>{{ twitter.text }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>

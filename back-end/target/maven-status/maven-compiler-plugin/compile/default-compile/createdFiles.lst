@@ -1,0 +1,8 @@
+com/scrapping/twittermapping/service/HealthService.class
+com/scrapping/twittermapping/controller/TwitterController.class
+com/scrapping/twittermapping/service/TwitterService.class
+com/scrapping/twittermapping/controller/HealthController.class
+com/scrapping/twittermapping/TwitterMappingApplication.class
+com/scrapping/twittermapping/config/SwaggerConfig.class
+com/scrapping/twittermapping/config/TwitterConfig.class
+com/scrapping/twittermapping/model/TwitterModel.class

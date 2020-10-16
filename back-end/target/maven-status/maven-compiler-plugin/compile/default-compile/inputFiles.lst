@@ -1,0 +1,8 @@
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/TwitterMappingApplication.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/service/TwitterService.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/controller/TwitterController.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/service/HealthService.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/config/SwaggerConfig.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/config/TwitterConfig.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/controller/HealthController.java
+/Users/Pedro/IdeaProjects/twitter-mapping/src/main/java/com/scrapping/twittermapping/model/TwitterModel.java
